@@ -1,0 +1,95 @@
+{
+glyphname = m;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(850,0,l),
+(850,100,o),
+(850,500,o),
+(850,600,cs),
+(850,900,o),
+(785,1000,o),
+(630,1000,cs),
+(490,1000,o),
+(338,895,o),
+(250,600,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = "1";
+};
+})
+);
+},
+{
+closed = 0;
+nodes = (
+(1450,0,l),
+(1450,100,o),
+(1450,500,o),
+(1450,600,cs),
+(1450,900,o),
+(1385,1000,o),
+(1230,1000,cs),
+(1090,1000,o),
+(938,895,o),
+(850,600,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = "1";
+};
+})
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = _c.stemL;
+},
+{
+closed = 0;
+nodes = (
+(850,0,l),
+(850,100,o),
+(850,400,o),
+(850,500,cs),
+(850,900,o),
+(785,1000,o),
+(630,1000,cs),
+(490,1000,o),
+(338,895,o),
+(250,500,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
+);
+},
+{
+closed = 0;
+nodes = (
+(1450,0,l),
+(1450,100,o),
+(1450,400,o),
+(1450,500,cs),
+(1450,900,o),
+(1385,1000,o),
+(1230,1000,cs),
+(1090,1000,o),
+(938,895,o),
+(850,500,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
+);
+}
+);
+width = 1675;
+}
+);
+unicode = 109;
+}

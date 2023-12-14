@@ -1,0 +1,20 @@
+{
+glyphname = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(150,1000,l),
+(550,0,l),
+(950,1000,l)
+);
+}
+);
+width = 1100;
+}
+);
+unicode = 118;
+}

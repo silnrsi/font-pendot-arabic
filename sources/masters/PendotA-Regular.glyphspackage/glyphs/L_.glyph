@@ -1,0 +1,28 @@
+{
+glyphname = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = _c.stemLA;
+},
+{
+closed = 0;
+nodes = (
+(250,0,l,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+}),
+(350,0,o),
+(1050,0,o),
+(1150,0,c)
+);
+}
+);
+width = 1300;
+}
+);
+unicode = 76;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (670,0);
+ref = _c.stemR;
+},
+{
+ref = _c.bowlL;
+}
+);
+width = 1170;
+}
+);
+unicode = 97;
+}

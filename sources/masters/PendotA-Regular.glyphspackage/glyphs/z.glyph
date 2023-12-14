@@ -1,0 +1,29 @@
+{
+glyphname = z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(190,1000,l),
+(920,1000,l,{
+co.uk.corvelsoftware.Dotter = {
+forced = 1;
+};
+}),
+(170,0,l,{
+co.uk.corvelsoftware.Dotter = {
+forced = 1;
+};
+}),
+(940,0,l)
+);
+}
+);
+width = 1110;
+}
+);
+unicode = 122;
+}

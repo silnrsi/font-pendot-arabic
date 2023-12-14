@@ -1,0 +1,51 @@
+{
+glyphname = r;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(870,700,l),
+(870,880,o),
+(780,1000,o),
+(640,1000,cs),
+(500,1000,o),
+(358,895,o),
+(250,600,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = "1";
+};
+})
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = _c.stemL;
+},
+{
+closed = 0;
+nodes = (
+(870,700,l),
+(870,880,o),
+(780,1000,o),
+(640,1000,cs),
+(500,1000,o),
+(358,895,o),
+(250,500,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
+);
+}
+);
+width = 970;
+}
+);
+unicode = 114;
+}

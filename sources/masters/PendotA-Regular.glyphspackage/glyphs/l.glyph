@@ -1,0 +1,16 @@
+{
+glyphname = l;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (60,0);
+ref = _c.stemLA;
+}
+);
+width = 620;
+}
+);
+unicode = 108;
+}

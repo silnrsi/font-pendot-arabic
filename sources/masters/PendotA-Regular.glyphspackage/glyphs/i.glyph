@@ -1,0 +1,25 @@
+{
+glyphname = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(310,0,l),
+(310,100,o),
+(310,900,o),
+(310,1000,cs)
+);
+},
+{
+pos = (0,100);
+ref = dotaccentcomb;
+}
+);
+width = 620;
+}
+);
+unicode = 105;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (500,0);
+ref = _c.stemLA;
+},
+{
+closed = 0;
+nodes = (
+(170,1700,l),
+(270,1700,o),
+(1230,1700,o),
+(1330,1700,c)
+);
+}
+);
+width = 1500;
+}
+);
+unicode = 84;
+}

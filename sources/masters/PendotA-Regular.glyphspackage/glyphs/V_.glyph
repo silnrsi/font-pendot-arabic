@@ -1,0 +1,24 @@
+{
+glyphname = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(150,1700,l),
+(750,0,l,{
+co.uk.corvelsoftware.Dotter = {
+forced = 1;
+};
+}),
+(1350,1700,l)
+);
+}
+);
+width = 1500;
+}
+);
+unicode = 86;
+}

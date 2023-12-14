@@ -1,0 +1,34 @@
+{
+glyphname = I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (500,0);
+ref = _c.stemLA;
+},
+{
+closed = 0;
+nodes = (
+(250,0,l),
+(350,0,o),
+(1150,0,o),
+(1250,0,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(250,1700,l),
+(350,1700,o),
+(1150,1700,o),
+(1250,1700,c)
+);
+}
+);
+width = 1500;
+}
+);
+unicode = 73;
+}

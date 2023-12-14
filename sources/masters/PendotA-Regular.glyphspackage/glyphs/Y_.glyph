@@ -1,0 +1,33 @@
+{
+glyphname = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(150,1700,l),
+(740,800,l),
+(1330,1700,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(740,0,l),
+(740,100,o),
+(740,700,o),
+(740,800,cs,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
+);
+}
+);
+width = 1480;
+}
+);
+unicode = 89;
+}

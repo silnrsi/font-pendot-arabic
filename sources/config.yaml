@@ -1,0 +1,16 @@
+sources:
+ - masters/PendotA-Regular.glyphspackage
+familyName: "Pendot Arabic Test Dotted"
+
+recipe:
+  ../fonts/ttf/PendotATestA-Dotted.ttf:
+    - source: masters/PendotA-Regular.glyphspackage
+    - operation: exec
+      exe: pendot
+      args: dot -o build/PendotA-Dotted.glyphs masters/PendotA-Regular.glyphspackage
+    - source: build/PendotA-Dotted.glyphs
+    - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+      operation: buildTTF
+    - operation: rename
+      name: Pendot Arabic Test Dotted
+    - operation: fix

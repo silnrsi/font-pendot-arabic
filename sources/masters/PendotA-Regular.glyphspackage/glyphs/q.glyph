@@ -1,0 +1,27 @@
+{
+glyphname = q;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(920,1000,l),
+(920,900,o),
+(920,100,o),
+(920,0,cs),
+(920,-280,o),
+(940,-400,o),
+(970,-500,cs)
+);
+},
+{
+ref = _c.bowlL;
+}
+);
+width = 1150;
+}
+);
+unicode = 113;
+}

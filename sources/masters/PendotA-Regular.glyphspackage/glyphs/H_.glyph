@@ -1,0 +1,36 @@
+{
+glyphname = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = _c.stemLA;
+},
+{
+pos = (1020,0);
+ref = _c.stemLA;
+},
+{
+closed = 0;
+nodes = (
+(250,900,l,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+}),
+(350,900,o),
+(1170,900,o),
+(1270,900,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
+);
+}
+);
+width = 1520;
+}
+);
+unicode = 72;
+}

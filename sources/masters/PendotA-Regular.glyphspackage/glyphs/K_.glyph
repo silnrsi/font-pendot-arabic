@@ -1,0 +1,23 @@
+{
+glyphname = K;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(1130,1700,l),
+(280,900,l),
+(1170,0,l)
+);
+},
+{
+ref = _c.stemLA;
+}
+);
+width = 1320;
+}
+);
+unicode = 75;
+}

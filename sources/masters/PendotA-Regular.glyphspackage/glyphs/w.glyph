@@ -1,0 +1,22 @@
+{
+glyphname = w;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(150,1000,l),
+(470,0,l),
+(790,1000,l),
+(1110,0,l),
+(1430,1000,l)
+);
+}
+);
+width = 1580;
+}
+);
+unicode = 119;
+}
