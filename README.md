@@ -25,15 +25,4 @@ On Ubuntu/macOS/WSL2 you need:
 
 ## Pendot Design Glyphs plugin setup
 
-Until the Pendot Designer is available directly inside the Glyphs plugin manager, here are the manual steps for typeface designers:
-
-- make sure Glyphs is current: Glyphs -> Check for Updates
-- open the Plugins folder: Script -> Open Script folder
-- right-click to open a new terminal in that folder via a menu entry
-- clone the Dotter git repository inside the Plugins folder: git clone https://github.com/simoncozens/Dotter.git
-- restart Glyphs
-- then Filter -> Pendot Designer to access the dialog box
-
-(Future updates work better by blowing away the folder and cloning again)
-
-Enjoy!
+Until the Pendot Designer is available directly inside the Glyphs plugin manager, the installation steps are described in the Dotter repository: https://github.com/simoncozens/Dotter
