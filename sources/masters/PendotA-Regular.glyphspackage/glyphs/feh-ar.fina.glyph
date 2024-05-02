@@ -1,0 +1,20 @@
+{
+glyphname = "feh-ar.fina";
+layers = (
+{
+layerId = m01;
+width = 1200;
+},
+{
+layerId = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
+width = 1200;
+},
+{
+associatedMasterId = m01;
+layerId = "E37DA816-722F-4402-B554-8DD48B60FF9F";
+name = "Pendot Quick Preview";
+visible = 1;
+width = 1200;
+}
+);
+}

@@ -1,0 +1,95 @@
+{
+glyphname = "teh-ar.medi";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "behDotless-ar.medi";
+},
+{
+pos = (177,-190);
+ref = _c.2dots;
+}
+);
+width = 762;
+},
+{
+layerId = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
+shapes = (
+{
+pos = (762,0);
+ref = _dot;
+},
+{
+pos = (454,437);
+ref = _dot;
+},
+{
+pos = (447,240);
+ref = _dot;
+},
+{
+ref = _dot;
+},
+{
+pos = (335,588);
+ref = _dot;
+},
+{
+pos = (507,597);
+ref = _dot;
+},
+{
+pos = (688.766,2.745);
+ref = _dot;
+},
+{
+pos = (616.097,13.192);
+ref = _dot;
+},
+{
+pos = (546.735,36.86);
+ref = _dot;
+},
+{
+pos = (489.477,81.833);
+ref = _dot;
+},
+{
+pos = (457.315,146.888);
+ref = _dot;
+},
+{
+pos = (450.725,365.631);
+ref = _dot;
+},
+{
+pos = (397.381,107.074);
+ref = _dot;
+},
+{
+pos = (346.606,57.117);
+ref = _dot;
+},
+{
+pos = (283.063,24.78);
+ref = _dot;
+},
+{
+pos = (213.707,7.749);
+ref = _dot;
+},
+{
+pos = (142.241,1.061);
+ref = _dot;
+},
+{
+pos = (70.493,-0.002);
+ref = _dot;
+}
+);
+width = 762;
+}
+);
+}

@@ -1,0 +1,13 @@
+{
+glyphname = "tah-ar.fina";
+layers = (
+{
+layerId = m01;
+width = 1200;
+},
+{
+layerId = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
+width = 1200;
+}
+);
+}

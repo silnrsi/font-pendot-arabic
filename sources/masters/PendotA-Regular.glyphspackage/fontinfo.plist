@@ -1,5 +1,5 @@
 {
-.appVersion = "3228";
+.appVersion = "3303";
 .formatVersion = 3;
 date = "2023-10-13 15:17:30 +0000";
 familyName = "Pendot A Test A";
@@ -19,10 +19,32 @@ pos = 1000;
 {
 },
 {
-pos = -500;
+pos = -1250;
 }
 );
 name = Regular;
+visible = 1;
+},
+{
+id = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
+metricValues = (
+{
+pos = 1700;
+},
+{
+pos = 1700;
+},
+{
+pos = 1000;
+},
+{
+},
+{
+pos = -500;
+}
+);
+name = "Pendot Preview";
+visible = 1;
 }
 );
 instances = (
@@ -31,6 +53,41 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
+userData = {
+co.uk.corvelsoftware.Dotter.contourSource = "<Default>";
+co.uk.corvelsoftware.Dotter.dotSize = 55;
+co.uk.corvelsoftware.Dotter.dotSpacing = 20;
+co.uk.corvelsoftware.Dotter.endCap = round;
+co.uk.corvelsoftware.Dotter.guidelines = (
+{
+height = Descender;
+thickness = 10;
+},
+{
+height = "x-Height";
+thickness = 10;
+},
+{
+height = "Cap Height";
+thickness = 10;
+},
+{
+height = Ascender;
+thickness = 10;
+}
+);
+co.uk.corvelsoftware.Dotter.joinType = round;
+co.uk.corvelsoftware.Dotter.mode = dotter;
+co.uk.corvelsoftware.Dotter.preventOverlaps = 1;
+co.uk.corvelsoftware.Dotter.removeExternal = 0;
+co.uk.corvelsoftware.Dotter.removeInternal = 0;
+co.uk.corvelsoftware.Dotter.segmentWise = 0;
+co.uk.corvelsoftware.Dotter.splitPaths = 0;
+co.uk.corvelsoftware.Dotter.startCap = round;
+co.uk.corvelsoftware.Dotter.strokerAngle = 0;
+co.uk.corvelsoftware.Dotter.strokerHeight = 50;
+co.uk.corvelsoftware.Dotter.strokerWidth = 50;
+};
 }
 );
 metrics = (
