@@ -7,7 +7,7 @@ recipe:
     - source: masters/PendotA-Regular.glyphspackage
     - operation: exec
       exe: pendot
-      args: dot -o build/PendotA-Dotted.glyphs masters/PendotA-Regular.glyphspackage
+      args: dot -o build/PendotA-Dotted.glyphs masters/PendotA-Regular.glyphspackage Regular
     - source: build/PendotA-Dotted.glyphs
     - args: --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
       operation: buildTTF
