@@ -1,3 +1,7 @@
+# Stay on the main branch of this until we are happy with
+# pendot
+pendot @ git+https://github.com/simoncozens/Dotter@main
+
 absl-py==2.0.0
 afdko==4.0.0
 appdirs==1.4.4
@@ -5,6 +9,7 @@ attrs==23.1.0
 axisregistry==0.4.5
 babelfont==3.0.1
 beautifulsoup4==4.12.2
+beziers==0.6.0
 blackrenderer==0.6.0
 booleanOperations==0.9.0
 Brotli==1.1.0
@@ -57,7 +62,6 @@ openstep-plist==0.3.1
 opentype-sanitizer==9.1.0
 orjson==3.9.10
 outcome==1.3.0.post0
-pendot @ git+https://github.com/simoncozens/Dotter/@177c207bd3aea4b0d1faf6bd867628cee03787eb
 picosvg==0.22.1
 Pillow==10.1.0
 pngquant-cli==2.17.0.post5
@@ -103,6 +107,7 @@ ufo2ft==2.33.4
 ufoLib2==0.16.0
 ufonormalizer==0.6.1
 ufoProcessor==1.9.0
+ufostroker==0.3.0
 uharfbuzz==0.37.3
 unicodedata2==15.1.0
 Unidecode==1.3.7
