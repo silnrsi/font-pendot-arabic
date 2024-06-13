@@ -2,17 +2,18 @@
 displayStrings = (
 "fbsiomnxv
 /beh-ar.fina/behDotless-ar.medi/beh-ar.medi/beh-ar.init  ب ٮ /behDotless-ar.init/behDotless-ar.medi/behDotless-ar.fina 
-/sheen-ar.init  س/seen-ar.init/seen-ar.medi س د  ر /_c.largebowl  س 
+/sheen-ar.init  /seen-ar.medi  د  ر /_c.largebowl   
 /sad-ar.init/sad-ar.medi ص ص/beh-ar.init  /dad-ar.init/dad-ar.medi/dad-ar.fina  ض
-ح/hah-ar.init ر /hah-ar.medi/lam-ar.fina ل ا سد/hah-ar.fina  ر/alefHamzaabove-ar.fina/_c.2dots/_hamza إ/alefHamzabelow-ar.fina أ س/alef-ar.fina/reh-ar.fina  مسيح يسوه م لل/meem-ar.fina  ق وف/feh-ar.init يل",
-"/beh-ar.init ر/seen-ar.init شس ح",
+ح/hah-ar.init ر /hah-ar.medi/lam-ar.fina ل ا  د/hah-ar.fina  ر/alefHamzaabove-ar.fina/_c.2dots/_hamza إ/alefHamzabelow-ar.fina أ /alef-ar.fina/reh-ar.fina  ميح يوه م لل/meem-ar.fina  ق وف/feh-ar.init يل",
+"/beh-ar.init رش ح",
 "ب /beh-ar.fina  /beh-ar.medi  /behDotless-ar.init/beh-ar.init  ت /teh-ar.fina  /teh-ar.medi/teh-ar.init  ث /theh-ar.fina  /theh-ar.medi  /theh-ar.init 
- ر /reh-ar.fina ز/zain-ar.fina  ل/behDotless-ar.medi/beh-ar.medi  /lam-ar.medi  /lam-ar.fina د/beh-ar.init/dal-ar.fina ذ/thal-ar.fina  سبد
-ححح ح  خخخ خ ججج ج
-تممم فمم و/waw-ar.fina ف /waw-ar.fina  ه ق ب رمتح
+ ر /reh-ar.fina ز/zain-ar.fina  ل/behDotless-ar.medi/beh-ar.medi  /lam-ar.medi  /lam-ar.fina د/beh-ar.init/dal-ar.fina ذ/thal-ar.fina  بد
+ححح ح  خخ/_dot خ خ ججج ج
+تمم /fehDotless-ar.init فمم و/waw-ar.fina ف /waw-ar.fina  ه ق ب رمتح
 شم تيو فيل فم وه  ",
 "ڡ /_c.dot ف /feh-ar.fina  /feh-ar.medi  /feh-ar.init  ڤ /veh-ar.fina  /veh-ar.medi  /veh-ar.init  ڡ /fehDotless-ar.fina  /fehDotless-ar.medi  /fehDotless-ar.init",
-"أ",
-"/_c.2dots/_c.dot/_c.3dots"
+"",
+"/seen-ar.init",
+"/seen-ar.init.mine/seen-ar.init"
 );
 }

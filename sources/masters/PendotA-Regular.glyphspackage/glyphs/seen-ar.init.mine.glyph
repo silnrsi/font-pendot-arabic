@@ -1,15 +1,56 @@
 {
-glyphname = "sheen-ar.init";
+glyphname = "seen-ar.init.mine";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = "seen-ar.init.mine";
+closed = 0;
+nodes = (
+(793,622,l),
+(822,490,o),
+(834,386,o),
+(834,303,cs),
+(834,49,o),
+(716,0,o),
+(582,0,cs),
+(486,0,o),
+(388,22,o),
+(261,69,c)
+);
 },
 {
-pos = (513,97);
-ref = _c.3dots;
+closed = 0;
+nodes = (
+(230,566,l),
+(277,412,o),
+(296,300,o),
+(296,218,cs),
+(296,13,o),
+(178,0,o),
+(97,0,cs),
+(85,0,o),
+(74,0,o),
+(64,0,cs),
+(41,0,o),
+(34,0,o),
+(0,0,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(1343,680,l),
+(1361,636,o),
+(1390,543,o),
+(1390,346,cs),
+(1390,87,o),
+(1302,0,o),
+(1133,0,cs),
+(994,0,o),
+(855,62,o),
+(798,111,c)
+);
 }
 );
 width = 1629;
@@ -38,18 +79,6 @@ ref = _dot;
 },
 {
 pos = (798,111);
-ref = _dot;
-},
-{
-pos = (671,855);
-ref = _dot;
-},
-{
-pos = (843,864);
-ref = _dot;
-},
-{
-pos = (748,1002);
 ref = _dot;
 },
 {
@@ -226,12 +255,6 @@ nodes = (
 );
 }
 );
-width = 1629;
-},
-{
-associatedMasterId = m01;
-layerId = "5A61F54B-673E-4CF4-BC7A-39E2EA3584C0";
-name = "Pendot Quick Preview";
 width = 1629;
 }
 );

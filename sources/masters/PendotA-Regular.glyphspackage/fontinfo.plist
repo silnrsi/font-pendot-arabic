@@ -19,7 +19,19 @@ pos = 1000;
 {
 },
 {
-pos = -1250;
+pos = -1275;
+},
+{
+pos = 680;
+},
+{
+pos = 962;
+},
+{
+pos = 1483;
+},
+{
+pos = -683;
 }
 );
 name = Regular;
@@ -40,14 +52,103 @@ pos = 1000;
 {
 },
 {
-pos = -500;
+pos = -1275;
+},
+{
+pos = 680;
+},
+{
+pos = 962;
+},
+{
+pos = 1483;
+},
+{
+pos = -683;
 }
 );
 name = "Pendot Preview";
-visible = 1;
 }
 );
 instances = (
+{
+customParameters = (
+{
+name = co.uk.corvelsoftware.Dotter.dotSize;
+value = 55;
+},
+{
+name = co.uk.corvelsoftware.Dotter.dotSpacing;
+value = 20;
+},
+{
+name = co.uk.corvelsoftware.Dotter.flexPercent;
+value = 75;
+},
+{
+name = co.uk.corvelsoftware.Dotter.preventOverlaps;
+value = 1;
+},
+{
+name = co.uk.corvelsoftware.Dotter.splitPaths;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.contourSource;
+value = "<Default>";
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerWidth;
+value = 50;
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerHeight;
+value = 50;
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerAngle;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.startCap;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.endCap;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.joinType;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.removeExternal;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.removeInternal;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.segmentWise;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.startDotSize;
+value = 30;
+},
+{
+name = co.uk.corvelsoftware.Dotter.effects;
+value = (
+Dotter
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = SmallDot;
+},
 {
 customParameters = (
 {
@@ -68,7 +169,7 @@ value = 0;
 },
 {
 name = co.uk.corvelsoftware.Dotter.dotSize;
-value = 55;
+value = 70;
 },
 {
 name = co.uk.corvelsoftware.Dotter.splitPaths;
@@ -90,19 +191,7 @@ value = round;
 name = co.uk.corvelsoftware.Dotter.guidelines;
 value = (
 {
-height = Descender;
-thickness = 10;
-},
-{
-height = "x-Height";
-thickness = 10;
-},
-{
-height = "Cap Height";
-thickness = 10;
-},
-{
-height = Ascender;
+height = Baseline;
 thickness = 10;
 }
 );
@@ -121,7 +210,7 @@ value = round;
 },
 {
 name = co.uk.corvelsoftware.Dotter.dotSpacing;
-value = 20;
+value = 40;
 },
 {
 name = co.uk.corvelsoftware.Dotter.preventOverlaps;
@@ -133,17 +222,205 @@ value = 0;
 },
 {
 name = co.uk.corvelsoftware.Dotter.flexPercent;
-value = 25;
+value = 100;
 },
 {
 name = co.uk.corvelsoftware.Dotter.startDotSize;
 value = 30;
+},
+{
+name = co.uk.corvelsoftware.Dotter.effects;
+value = (
+Dotter
+);
 }
 );
 instanceInterpolations = {
 m01 = 1;
 };
-name = Regular;
+name = MediumDot;
+},
+{
+customParameters = (
+{
+name = co.uk.corvelsoftware.Dotter.dotSize;
+value = 55;
+},
+{
+name = co.uk.corvelsoftware.Dotter.dotSpacing;
+value = 20;
+},
+{
+name = co.uk.corvelsoftware.Dotter.flexPercent;
+value = 25;
+},
+{
+name = co.uk.corvelsoftware.Dotter.preventOverlaps;
+value = 1;
+},
+{
+name = co.uk.corvelsoftware.Dotter.splitPaths;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.contourSource;
+value = "<Default>";
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerWidth;
+value = 50;
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerHeight;
+value = 50;
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerAngle;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.startCap;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.endCap;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.joinType;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.removeExternal;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.removeInternal;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.segmentWise;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.startDotSize;
+value = 30;
+},
+{
+name = co.uk.corvelsoftware.Dotter.effects;
+value = (
+Dotter,
+Guidelines
+);
+},
+{
+name = co.uk.corvelsoftware.Dotter.guidelines;
+value = (
+{
+height = Baseline;
+thickness = "15";
+},
+{
+height = "x-height A";
+thickness = "15";
+},
+{
+height = "x-height B";
+thickness = "15";
+},
+{
+height = "x-height C";
+thickness = "15";
+},
+{
+height = "descender A";
+thickness = "15";
+}
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "MediumDot-guide";
+},
+{
+customParameters = (
+{
+name = co.uk.corvelsoftware.Dotter.dotSize;
+value = 15;
+},
+{
+name = co.uk.corvelsoftware.Dotter.dotSpacing;
+value = 15;
+},
+{
+name = co.uk.corvelsoftware.Dotter.flexPercent;
+value = 25;
+},
+{
+name = co.uk.corvelsoftware.Dotter.preventOverlaps;
+value = 1;
+},
+{
+name = co.uk.corvelsoftware.Dotter.splitPaths;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.contourSource;
+value = "<Default>";
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerWidth;
+value = 30;
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerHeight;
+value = 30;
+},
+{
+name = co.uk.corvelsoftware.Dotter.strokerAngle;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.startCap;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.endCap;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.joinType;
+value = round;
+},
+{
+name = co.uk.corvelsoftware.Dotter.removeExternal;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.removeInternal;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.segmentWise;
+value = 0;
+},
+{
+name = co.uk.corvelsoftware.Dotter.startDotSize;
+value = 30;
+},
+{
+name = co.uk.corvelsoftware.Dotter.effects;
+value = (
+Stroker
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Medium;
 }
 );
 metrics = (
@@ -161,6 +438,18 @@ type = baseline;
 },
 {
 type = descender;
+},
+{
+name = "x-height A";
+},
+{
+name = "x-height B";
+},
+{
+name = "x-height C";
+},
+{
+name = "descender A";
 }
 );
 properties = (
