@@ -7,53 +7,13 @@ width = 1200;
 },
 {
 layerId = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,0,l),
-(1200,0,l),
-(1200,15,l),
-(0,15,l)
-);
+width = 1200;
 },
 {
-closed = 1;
-nodes = (
-(0,680,l),
-(1200,680,l),
-(1200,695,l),
-(0,695,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,962,l),
-(1200,962,l),
-(1200,977,l),
-(0,977,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,1483,l),
-(1200,1483,l),
-(1200,1498,l),
-(0,1498,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-683,l),
-(1200,-683,l),
-(1200,-668,l),
-(0,-668,l)
-);
-}
-);
+associatedMasterId = m01;
+layerId = "639EA0C1-5069-48B5-906E-E0AD31B534F9";
+name = "Pendot Quick Preview";
+visible = 1;
 width = 1200;
 }
 );
