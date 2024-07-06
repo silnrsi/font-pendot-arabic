@@ -13,6 +13,7 @@ bin/**
 .init.stamp
 build.stamp
 fonts/
+sources/build
 sources/.ninja_log
 sources/build.ninja
 build.ninja
