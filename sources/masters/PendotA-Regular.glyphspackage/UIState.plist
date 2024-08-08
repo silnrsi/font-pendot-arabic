@@ -2,17 +2,18 @@
 displayStrings = (
 "fbsiomnxv
 /beh-ar.fina/behDotless-ar.medi/beh-ar.medi/beh-ar.init  ب ٮ /behDotless-ar.init/behDotless-ar.medi/behDotless-ar.fina 
-/sheen-ar.init  /seen-ar.medi  د  ر /_c.largebowl   
+/sheen-ar.init  س/seen-ar.medi/seen-ar.fina  س د  ر /_c.largebowl   
 /sad-ar.init/sad-ar.medi ص ص/beh-ar.init  /dad-ar.init/dad-ar.medi/dad-ar.fina  ض
-ح/hah-ar.init ر /hah-ar.medi/lam-ar.fina ل ا   /kaf-ar.init/kaf-ar.medi/kaf-ar.fina  ك
-د/hah-ar.fina  ر/alefHamzaabove-ar.fina/_c.2dots/_hamza إ/alefHamzabelow-ar.fina أ /alef-ar.fina/reh-ar.fina  ميح يوه م لل/meem-ar.fina  ق وف/feh-ar.init يل /ain-ar.init/ain-ar.medi م/ain-ar.fina ع",
+ح/hah-ar.init ر /hah-ar.medi/lam-ar.fina ل ا   /kaf-ar.init ك/kaf-ar.fina  ك
+د/hah-ar.fina  ر/alefHamzaabove-ar.fina/_c.2dots/_hamza إ/alefHamzabelow-ar.fina أ /alef-ar.fina/reh-ar.fina  ميح ح يوه م لل/meem-ar.fina  ق وف/feh-ar.init يل /ain-ar.init/ain-ar.medi م/ain-ar.fina ع",
 "ٮ /behDotless-ar.init  /behDotless-ar.medi  /behDotless-ar.fina ب /beh-ar.fina  /beh-ar.medi  /behDotless-ar.init/beh-ar.init  ت /teh-ar.fina  
 /teh-ar.medi/teh-ar.init  ث /theh-ar.fina  /theh-ar.medi  /theh-ar.init  ن /noon-ar.init/noon-ar.medi/noon-ar.fina 
  ر /reh-ar.fina ز/zain-ar.fina  ل/behDotless-ar.medi/beh-ar.medi/lam-ar.medi/lam-ar.fina د/beh-ar.init/dal-ar.fina ذ/thal-ar.fina  بد
 ححح ح  خخ خ خ ججج ج
 تمم /fehDotless-ar.init فمم و/waw-ar.fina ف /waw-ar.fina/tehMarbuta-ar.fina  /heh-ar.fina ه ة ق ب رمتح /yeh-ar.init/yeh-ar.medi/yeh-ar.fina ي ى /alefMaksura-ar.fina 
 شم تيو فيل فم وه  ",
-"/_c.dot ڡ ف  /feh-ar.fina  /feh-ar.medi  /fehDotless-ar.init/feh-ar.init  ڤ /veh-ar.fina  /veh-ar.medi  /veh-ar.init  ق/qaf-ar.init/qaf-ar.medi/qaf-ar.fina  /waw-ar.fina  ڡ /fehDotless-ar.init/fehDotless-ar.medi/fehDotless-ar.fina  /fehDotless-ar.medi  /fehDotless-ar.init  ه /heh-ar.init ي /noon-ar.init/heh-ar.medi/teh-ar.fina/beh-ar.init/heh-ar.medi.alt/heh-ar.fina  ة/tehMarbuta-ar.fina",
+"/_c.dot ڡ ف  /feh-ar.fina  /feh-ar.medi  /fehDotless-ar.init/feh-ar.init  ڤ /veh-ar.fina  /veh-ar.medi  /veh-ar.init  ق/qaf-ar.init/qaf-ar.medi/qaf-ar.fina  /waw-ar.fina  ڡ /fehDotless-ar.init/fehDotless-ar.medi/fehDotless-ar.fina  /fehDotless-ar.medi  /fehDotless-ar.init  ه /heh-ar.init ي /noon-ar.init/heh-ar.medi/teh-ar.fina/beh-ar.init/heh-ar.medi.alt/heh-ar.fina  ة/tehMarbuta-ar.fina 
+غغغ غ ععع ع",
 "ص /sad-ar.fina  /sad-ar.medi  /sad-ar.init  ض /dad-ar.fina  /dad-ar.medi  /dad-ar.init  
 ط  /tah-ar.init/tah-ar.medi/tah-ar.fina  ظ /zah-ar.fina  /zah-ar.medi  /zah-ar.init  "
 );
