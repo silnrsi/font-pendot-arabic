@@ -31,7 +31,10 @@ pos = 962;
 pos = 1483;
 },
 {
-pos = -683;
+pos = -493;
+},
+{
+pos = -1130;
 }
 );
 name = Regular;
@@ -64,6 +67,8 @@ pos = 1483;
 },
 {
 pos = -683;
+},
+{
 }
 );
 name = "Pendot Preview";
@@ -75,11 +80,11 @@ instances = (
 customParameters = (
 {
 name = co.uk.corvelsoftware.Dotter.dotSize;
-value = 50;
+value = 45;
 },
 {
 name = co.uk.corvelsoftware.Dotter.dotSpacing;
-value = 20;
+value = 27;
 },
 {
 name = co.uk.corvelsoftware.Dotter.flexPercent;
@@ -91,7 +96,7 @@ value = 1;
 },
 {
 name = co.uk.corvelsoftware.Dotter.splitPaths;
-value = 0;
+value = 1;
 },
 {
 name = co.uk.corvelsoftware.Dotter.contourSource;
@@ -173,7 +178,7 @@ value = 70;
 },
 {
 name = co.uk.corvelsoftware.Dotter.splitPaths;
-value = 0;
+value = 1;
 },
 {
 name = co.uk.corvelsoftware.Dotter.strokerHeight;
@@ -356,7 +361,7 @@ value = 40;
 },
 {
 name = co.uk.corvelsoftware.Dotter.flexPercent;
-value = 25;
+value = 100;
 },
 {
 name = co.uk.corvelsoftware.Dotter.preventOverlaps;
@@ -438,6 +443,10 @@ thickness = "15";
 },
 {
 height = "descender A";
+thickness = "15";
+},
+{
+height = "descender B";
 thickness = "15";
 }
 );
@@ -554,6 +563,9 @@ name = "x-height C";
 },
 {
 name = "descender A";
+},
+{
+name = "descender B";
 }
 );
 properties = (
