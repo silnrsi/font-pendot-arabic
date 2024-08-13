@@ -340,6 +340,10 @@ thickness = "10";
 {
 height = "descender A";
 thickness = "10";
+},
+{
+height = "descender B";
+thickness = 10;
 }
 );
 }
