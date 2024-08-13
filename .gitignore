@@ -28,6 +28,7 @@ out/
 *.swp
 *.autosave
 *(Autosaved)*
+*.idlk
 
 
 # OS X
