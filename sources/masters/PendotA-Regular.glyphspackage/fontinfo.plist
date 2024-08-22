@@ -792,7 +792,6 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = LargeDot;
-weightClass = 600;
 },
 {
 customParameters = (
@@ -901,7 +900,6 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = "LargeDot-guide";
-weightClass = 600;
 }
 );
 metrics = (
