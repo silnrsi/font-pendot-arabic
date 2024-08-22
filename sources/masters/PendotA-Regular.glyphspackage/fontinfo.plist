@@ -214,41 +214,6 @@ pos = -683;
 );
 name = "Pendot Preview";
 visible = 1;
-},
-{
-id = "8C4CB902-27CF-4C42-A551-3B5A3820B4D5";
-metricValues = (
-{
-pos = 1700;
-},
-{
-pos = 1700;
-},
-{
-pos = 1000;
-},
-{
-},
-{
-pos = -1275;
-},
-{
-pos = 680;
-},
-{
-pos = 962;
-},
-{
-pos = 1483;
-},
-{
-pos = -493;
-},
-{
-pos = -1130;
-}
-);
-name = Medium;
 }
 );
 instances = (
