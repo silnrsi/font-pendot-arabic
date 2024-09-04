@@ -578,11 +578,11 @@ value = "{
     thickness = 10;
 }
 {
-    height = \"Cap Height\";
+    height = "Cap Height";
     thickness = 10;
 }
 {
-    height = \"x-Height\";
+    height = "x-Height";
     thickness = 25;
 }
 {
