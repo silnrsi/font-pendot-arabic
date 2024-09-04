@@ -6,16 +6,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v2
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
       with:
-        python-version: "3.10"
+        python-version: "3.11"
     - name: Install sys tools/deps
       run: |
         sudo apt-get update
         sudo apt-get install ttfautohint
-    - uses: actions/cache@v2
+    - uses: actions/cache@v4
       with:
         path: ./venv/
         key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
@@ -54,7 +54,7 @@ jobs:
     #     github_token: ${{ secrets.GITHUB_TOKEN }}
     #     publish_dir: ./out
     - name: Archive artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ env.ZIP_NAME }}
         path: |
@@ -72,9 +72,9 @@ jobs:
     env:
       ZIP_NAME: ${{ needs.build.outputs.zip_name }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Download artefact files
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: ${{ env.ZIP_NAME }}
           path: ${{ env.ZIP_NAME }}
