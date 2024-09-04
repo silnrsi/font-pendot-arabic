@@ -575,7 +575,7 @@ height = Baseline;
 thickness = "35";
 },
 {
-height = "x-height A";
+height = "x-heightA";
 thickness = "10";
 },
 {
@@ -588,7 +588,7 @@ thickness = "25";
 },
 {
 height = "descender A";
-thickness = "10";
+thickness = "40";
 },
 {
 height = "descender B";
@@ -884,7 +884,7 @@ type = baseline;
 type = descender;
 },
 {
-name = "x-height A";
+name = "x-heightA";
 },
 {
 name = "x-height B";
