@@ -569,32 +569,26 @@ Guidelines
 },
 {
 name = co.uk.corvelsoftware.Dotter.guidelines;
-value = (
-{
-height = Baseline;
-thickness = "35";
-},
-{
-height = "x-heightA";
-thickness = "10";
-},
-{
-height = "x-height B";
-thickness = "10";
-},
-{
-height = "x-height C";
-thickness = "25";
-},
-{
-height = "descender A";
-thickness = "40";
-},
-{
-height = "descender B";
-thickness = "25";
+value = "{
+    height = Baseline;
+    thickness = 35;
 }
-);
+{
+    height = Ascender;
+    thickness = 10;
+}
+{
+    height = \"Cap Height\";
+    thickness = 10;
+}
+{
+    height = \"x-Height\";
+    thickness = 25;
+}
+{
+    height = Descender;
+    thickness = 40;
+}";
 }
 );
 instanceInterpolations = {
