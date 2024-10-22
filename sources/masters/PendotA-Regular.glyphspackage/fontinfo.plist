@@ -364,37 +364,7 @@ value = 30;
 {
 name = co.uk.corvelsoftware.Dotter.effects;
 value = (
-Dotter,
-Guidelines
-);
-},
-{
-name = co.uk.corvelsoftware.Dotter.guidelines;
-value = (
-{
-height = Baseline;
-thickness = "10";
-},
-{
-height = "x-height A";
-thickness = "10";
-},
-{
-height = "x-height B";
-thickness = "10";
-},
-{
-height = "x-height C";
-thickness = "10";
-},
-{
-height = "descender A";
-thickness = "10";
-},
-{
-height = "descender B";
-thickness = 10;
-}
+Dotter
 );
 }
 );
@@ -440,15 +410,6 @@ value = 50;
 {
 name = co.uk.corvelsoftware.Dotter.endCap;
 value = round;
-},
-{
-name = co.uk.corvelsoftware.Dotter.guidelines;
-value = (
-{
-height = Baseline;
-thickness = 10;
-}
-);
 },
 {
 name = co.uk.corvelsoftware.Dotter.mode;
@@ -563,37 +524,7 @@ value = 30;
 {
 name = co.uk.corvelsoftware.Dotter.effects;
 value = (
-Dotter,
-Guidelines
-);
-},
-{
-name = co.uk.corvelsoftware.Dotter.guidelines;
-value = (
-{
-height = Baseline;
-thickness = "35";
-},
-{
-height = "x-height A";
-thickness = "10";
-},
-{
-height = "x-height B";
-thickness = "10";
-},
-{
-height = "x-height C";
-thickness = "25";
-},
-{
-height = "descender A";
-thickness = "10";
-},
-{
-height = "descender B";
-thickness = "25";
-}
+Dotter
 );
 }
 );
@@ -827,37 +758,7 @@ value = 30;
 {
 name = co.uk.corvelsoftware.Dotter.effects;
 value = (
-Dotter,
-Guidelines
-);
-},
-{
-name = co.uk.corvelsoftware.Dotter.guidelines;
-value = (
-{
-height = Baseline;
-thickness = "45";
-},
-{
-height = "x-height A";
-thickness = "10";
-},
-{
-height = "x-height B";
-thickness = "10";
-},
-{
-height = "x-height C";
-thickness = "45";
-},
-{
-height = "descender A";
-thickness = "10";
-},
-{
-height = "descender B";
-thickness = "45";
-}
+Dotter
 );
 }
 );
