@@ -127,59 +127,216 @@ ref = _dot;
 {
 pos = (845.543,210.848);
 ref = _dot;
-},
-{
-closed = 1;
-nodes = (
-(0,0,l),
-(1210,0,l),
-(1210,45,l),
-(0,45,l)
+}
 );
+width = 1210;
 },
 {
-closed = 1;
+background = {
+shapes = (
+{
+closed = 0;
 nodes = (
-(0,680,l),
-(1210,680,l),
-(1210,690,l),
-(0,690,l)
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(852,105,o),
+(960,400,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = "1";
+};
+})
 );
-},
-{
-closed = 1;
-nodes = (
-(0,962,l),
-(1210,962,l),
-(1210,972,l),
-(0,972,l)
+}
 );
+};
+layerId = m003;
+shapes = (
+{
+pos = (710,0);
+ref = _c.stemR;
 },
 {
-closed = 1;
+closed = 0;
 nodes = (
-(0,1483,l),
-(1210,1483,l),
-(1210,1528,l),
-(0,1528,l)
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(850,110,o),
+(960,500,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
 );
-},
-{
-closed = 1;
-nodes = (
-(0,-493,l),
-(1210,-493,l),
-(1210,-483,l),
-(0,-483,l)
+}
 );
+width = 1210;
 },
 {
-closed = 1;
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+closed = 0;
 nodes = (
-(0,-1130,l),
-(1210,-1130,l),
-(1210,-1085,l),
-(0,-1085,l)
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(852,105,o),
+(960,400,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = "1";
+};
+})
+);
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+pos = (710,0);
+ref = _c.stemR;
+},
+{
+closed = 0;
+nodes = (
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(850,110,o),
+(960,500,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
+);
+}
+);
+width = 1210;
+},
+{
+associatedMasterId = m003;
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(852,105,o),
+(960,400,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = "1";
+};
+})
+);
+}
+);
+};
+layerId = "4D44B380-7E75-4060-B658-C76DBB179442";
+shapes = (
+{
+pos = (710,0);
+ref = _c.stemR;
+},
+{
+closed = 0;
+nodes = (
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(850,110,o),
+(960,500,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
+);
+}
+);
+width = 1210;
+},
+{
+associatedMasterId = m003;
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(852,105,o),
+(960,400,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = "1";
+};
+})
+);
+}
+);
+};
+layerId = "2021031E-3A19-40BF-B80F-8C06C9554CB3";
+shapes = (
+{
+pos = (710,0);
+ref = _c.stemR;
+},
+{
+closed = 0;
+nodes = (
+(250,1000,l),
+(250,900,o),
+(250,500,o),
+(250,400,cs),
+(250,100,o),
+(355,0,o),
+(530,0,cs),
+(700,0,o),
+(850,110,o),
+(960,500,c,{
+co.uk.corvelsoftware.Dotter = {
+locally_forced = 1;
+};
+})
 );
 }
 );

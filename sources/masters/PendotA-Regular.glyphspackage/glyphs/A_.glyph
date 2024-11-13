@@ -40,11 +40,11 @@ pos = (740,1700);
 ref = _dot;
 },
 {
-pos = (150,0);
+pos = (358.235,600);
 ref = _dot;
 },
 {
-pos = (355,600);
+pos = (150,0);
 ref = _dot;
 },
 {
@@ -88,110 +88,56 @@ pos = (793.636,1545.455);
 ref = _dot;
 },
 {
-pos = (686.364,1545.455);
+pos = (685.462,1542.857);
 ref = _dot;
 },
 {
-pos = (632.727,1390.909);
+pos = (630.924,1385.714);
 ref = _dot;
 },
 {
-pos = (579.091,1236.364);
+pos = (576.387,1228.571);
 ref = _dot;
 },
 {
-pos = (525.455,1081.818);
+pos = (521.849,1071.429);
 ref = _dot;
 },
 {
-pos = (471.818,927.273);
+pos = (467.311,914.286);
 ref = _dot;
 },
 {
-pos = (418.182,772.727);
+pos = (412.773,757.143);
 ref = _dot;
 },
 {
-pos = (310.909,463.636);
+pos = (306.176,450);
 ref = _dot;
 },
 {
-pos = (257.273,309.091);
+pos = (254.118,300);
 ref = _dot;
 },
 {
-pos = (203.636,154.545);
+pos = (202.059,150);
 ref = _dot;
 },
 {
-pos = (508.2,600);
+pos = (510.743,600);
 ref = _dot;
 },
 {
-pos = (661.4,600);
+pos = (663.307,600);
 ref = _dot;
 },
 {
-pos = (814.6,600);
+pos = (815.871,600);
 ref = _dot;
 },
 {
-pos = (967.8,600);
+pos = (968.436,600);
 ref = _dot;
-},
-{
-closed = 1;
-nodes = (
-(0,0,l),
-(1480,0,l),
-(1480,45,l),
-(0,45,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,680,l),
-(1480,680,l),
-(1480,690,l),
-(0,690,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,962,l),
-(1480,962,l),
-(1480,972,l),
-(0,972,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,1483,l),
-(1480,1483,l),
-(1480,1528,l),
-(0,1528,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-493,l),
-(1480,-493,l),
-(1480,-483,l),
-(0,-483,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-1130,l),
-(1480,-1130,l),
-(1480,-1085,l),
-(0,-1085,l)
-);
 }
 );
 width = 1480;
@@ -199,6 +145,147 @@ width = 1480;
 {
 associatedMasterId = m01;
 layerId = "BDC1419F-222D-49CD-A627-F64CCF9CD942";
+name = "Pendot Quick Preview";
+width = 1480;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 0;
+nodes = (
+(1330,0,l),
+(740,1700,l,{
+co.uk.corvelsoftware.Dotter = {
+forced = 1;
+};
+}),
+(150,0,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(355,600,l),
+(455,600,o),
+(1021,600,o),
+(1121,600,c)
+);
+}
+);
+width = 1480;
+},
+{
+associatedMasterId = m01;
+layerId = "8C3F1BCB-A67B-483D-A562-2153B6B60839";
+name = "Pendot Quick Preview";
+width = 1480;
+},
+{
+associatedMasterId = m01;
+layerId = m004;
+shapes = (
+{
+closed = 0;
+nodes = (
+(1330,0,l),
+(740,1700,l,{
+co.uk.corvelsoftware.Dotter = {
+forced = 1;
+};
+}),
+(150,0,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(355,600,l),
+(455,600,o),
+(1021,600,o),
+(1121,600,c)
+);
+}
+);
+width = 1480;
+},
+{
+associatedMasterId = m01;
+layerId = "CADD6EF0-B295-46D2-8EFD-6DC0846FDCDD";
+name = "Pendot Quick Preview";
+width = 1480;
+},
+{
+associatedMasterId = m003;
+layerId = "24D8358A-5613-476E-81FB-A4F895CC8A18";
+name = "Pendot Quick Preview";
+width = 1480;
+},
+{
+associatedMasterId = m003;
+layerId = "146CC390-86A6-4D61-A45D-F80EDF20E93B";
+shapes = (
+{
+closed = 0;
+nodes = (
+(1330,0,l),
+(740,1700,l,{
+co.uk.corvelsoftware.Dotter = {
+forced = 1;
+};
+}),
+(150,0,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(355,600,l),
+(455,600,o),
+(1021,600,o),
+(1121,600,c)
+);
+}
+);
+width = 1480;
+},
+{
+associatedMasterId = m003;
+layerId = "48B79AA1-320D-4879-9D0F-90D7E793D135";
+name = "Pendot Quick Preview";
+width = 1480;
+},
+{
+associatedMasterId = m003;
+layerId = "BC2E1036-9526-4493-BBB8-0E91896CFDF3";
+shapes = (
+{
+closed = 0;
+nodes = (
+(1330,0,l),
+(740,1700,l,{
+co.uk.corvelsoftware.Dotter = {
+forced = 1;
+};
+}),
+(150,0,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(355,600,l),
+(455,600,o),
+(1021,600,o),
+(1121,600,c)
+);
+}
+);
+width = 1480;
+},
+{
+associatedMasterId = m003;
+layerId = "0167785B-A183-4684-976F-83806CFF0C08";
 name = "Pendot Quick Preview";
 width = 1480;
 }

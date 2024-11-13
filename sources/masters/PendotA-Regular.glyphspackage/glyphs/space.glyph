@@ -7,62 +7,6 @@ width = 400;
 },
 {
 layerId = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,0,l),
-(400,0,l),
-(400,45,l),
-(0,45,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,680,l),
-(400,680,l),
-(400,690,l),
-(0,690,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,962,l),
-(400,962,l),
-(400,972,l),
-(0,972,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,1483,l),
-(400,1483,l),
-(400,1528,l),
-(0,1528,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-493,l),
-(400,-493,l),
-(400,-483,l),
-(0,-483,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-1130,l),
-(400,-1130,l),
-(400,-1085,l),
-(0,-1085,l)
-);
-}
-);
 width = 400;
 },
 {
@@ -73,19 +17,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(0,0,l),
-(400,0,l),
-(400,25,l),
-(0,25,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,680,l),
-(400,680,l),
-(400,690,l),
-(0,690,l)
+(0,1483,l),
+(400,1483,l),
+(400,1505,l),
+(0,1505,l)
 );
 },
 {
@@ -93,17 +28,17 @@ closed = 1;
 nodes = (
 (0,962,l),
 (400,962,l),
-(400,972,l),
-(0,972,l)
+(400,977,l),
+(0,977,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(0,1483,l),
-(400,1483,l),
-(400,1508,l),
-(0,1508,l)
+(0,680,l),
+(400,680,l),
+(400,695,l),
+(0,695,l)
 );
 },
 {
@@ -111,8 +46,8 @@ closed = 1;
 nodes = (
 (0,-493,l),
 (400,-493,l),
-(400,-483,l),
-(0,-483,l)
+(400,-478,l),
+(0,-478,l)
 );
 },
 {
@@ -120,11 +55,70 @@ closed = 1;
 nodes = (
 (0,-1130,l),
 (400,-1130,l),
-(400,-1105,l),
-(0,-1105,l)
+(400,-1108,l),
+(0,-1108,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,0,l),
+(400,0,l),
+(400,22,l),
+(0,22,l)
 );
 }
 );
+visible = 1;
+width = 200;
+},
+{
+layerId = m003;
+width = 400;
+},
+{
+associatedMasterId = m01;
+layerId = "0B0B1F20-323B-4206-97AB-2E0CA851B2CA";
+name = "Pendot Quick Preview";
+width = 200;
+},
+{
+associatedMasterId = m01;
+layerId = m004;
+width = 400;
+},
+{
+associatedMasterId = m01;
+layerId = "73CC5D33-32A0-4F7D-A699-3B62EA74218B";
+name = "Pendot Quick Preview";
+width = 200;
+},
+{
+associatedMasterId = m003;
+layerId = "57E1B85E-FDAF-4128-A120-288C1C93A224";
+name = "Pendot Quick Preview";
+width = 200;
+},
+{
+associatedMasterId = m003;
+layerId = "B0591758-6A53-4CA2-8151-DB66757FE28A";
+width = 400;
+},
+{
+associatedMasterId = m003;
+layerId = "5B354F7C-0722-4379-BD74-B916D904AF2F";
+name = "Pendot Quick Preview";
+width = 200;
+},
+{
+associatedMasterId = m003;
+layerId = "6D2F0B2D-3D4F-4844-A188-8D88C617BE97";
+width = 400;
+},
+{
+associatedMasterId = m003;
+layerId = "610BF8A3-40A4-4AF1-B451-5A0042459E40";
+name = "Pendot Quick Preview";
 width = 200;
 }
 );

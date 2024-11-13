@@ -34,60 +34,81 @@ ref = _dot;
 {
 pos = (228,869);
 ref = _dot;
+}
+);
+width = 500;
 },
 {
-closed = 1;
-nodes = (
-(0,0,l),
-(500,0,l),
-(500,45,l),
-(0,45,l)
-);
+layerId = m003;
+shapes = (
+{
+pos = (-81,-8);
+ref = _c.dot;
 },
 {
-closed = 1;
-nodes = (
-(0,680,l),
-(500,680,l),
-(500,690,l),
-(0,690,l)
-);
+pos = (91,1);
+ref = _c.dot;
 },
 {
-closed = 1;
-nodes = (
-(0,962,l),
-(500,962,l),
-(500,972,l),
-(0,972,l)
+pos = (-4,139);
+ref = _c.dot;
+}
 );
+width = 500;
 },
 {
-closed = 1;
-nodes = (
-(0,1483,l),
-(500,1483,l),
-(500,1528,l),
-(0,1528,l)
-);
+associatedMasterId = m01;
+layerId = m004;
+shapes = (
+{
+pos = (-81,-8);
+ref = _c.dot;
 },
 {
-closed = 1;
-nodes = (
-(0,-493,l),
-(500,-493,l),
-(500,-483,l),
-(0,-483,l)
-);
+pos = (91,1);
+ref = _c.dot;
 },
 {
-closed = 1;
-nodes = (
-(0,-1130,l),
-(500,-1130,l),
-(500,-1085,l),
-(0,-1085,l)
+pos = (-4,139);
+ref = _c.dot;
+}
 );
+width = 500;
+},
+{
+associatedMasterId = m003;
+layerId = "05F0F44C-B481-4582-B3EB-FA470B4839B3";
+shapes = (
+{
+pos = (-81,-8);
+ref = _c.dot;
+},
+{
+pos = (91,1);
+ref = _c.dot;
+},
+{
+pos = (-4,139);
+ref = _c.dot;
+}
+);
+width = 500;
+},
+{
+associatedMasterId = m003;
+layerId = "8619EA27-D569-4055-9357-B13888FCF092";
+shapes = (
+{
+pos = (-81,-8);
+ref = _c.dot;
+},
+{
+pos = (91,1);
+ref = _c.dot;
+},
+{
+pos = (-4,139);
+ref = _c.dot;
 }
 );
 width = 500;

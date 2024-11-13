@@ -214,6 +214,42 @@ pos = -683;
 );
 name = "Pendot Preview";
 visible = 1;
+},
+{
+id = m003;
+metricValues = (
+{
+pos = 1700;
+},
+{
+pos = 1700;
+},
+{
+pos = 1000;
+},
+{
+},
+{
+pos = -1275;
+},
+{
+pos = 680;
+},
+{
+pos = 962;
+},
+{
+pos = 1483;
+},
+{
+pos = -493;
+},
+{
+pos = -1130;
+}
+);
+name = RegularO;
+visible = 1;
 }
 );
 instances = (
@@ -550,7 +586,37 @@ value = 30;
 {
 name = co.uk.corvelsoftware.Dotter.effects;
 value = (
-Dotter
+Dotter,
+Guidelines
+);
+},
+{
+name = co.uk.corvelsoftware.Dotter.guidelines;
+value = (
+{
+height = "1483";
+thickness = "18";
+},
+{
+height = "962";
+thickness = 10;
+},
+{
+height = "680";
+thickness = 10;
+},
+{
+height = "-493";
+thickness = 10;
+},
+{
+height = "-1130";
+thickness = "18";
+},
+{
+height = "0";
+thickness = "18";
+}
 );
 }
 );
@@ -784,7 +850,37 @@ value = 30;
 {
 name = co.uk.corvelsoftware.Dotter.effects;
 value = (
-Dotter
+Dotter,
+Guidelines
+);
+},
+{
+name = co.uk.corvelsoftware.Dotter.guidelines;
+value = (
+{
+height = "1483";
+thickness = "22";
+},
+{
+height = "962";
+thickness = "15";
+},
+{
+height = "680";
+thickness = "15";
+},
+{
+height = "-493";
+thickness = "15";
+},
+{
+height = "-1130";
+thickness = "22";
+},
+{
+height = "0";
+thickness = "22";
+}
 );
 }
 );
