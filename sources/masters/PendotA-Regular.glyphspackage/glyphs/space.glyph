@@ -7,12 +7,6 @@ width = 400;
 },
 {
 layerId = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
-width = 400;
-},
-{
-associatedMasterId = m01;
-layerId = "7FC94F91-C030-46B3-BA59-DF12E0A43EC9";
-name = "Pendot Quick Preview";
 shapes = (
 {
 closed = 1;
@@ -69,6 +63,12 @@ nodes = (
 );
 }
 );
+width = 400;
+},
+{
+associatedMasterId = m01;
+layerId = "7FC94F91-C030-46B3-BA59-DF12E0A43EC9";
+name = "Pendot Quick Preview";
 visible = 1;
 width = 200;
 },
