@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3316";
 .formatVersion = 3;
 customParameters = (
 {
@@ -582,7 +582,7 @@ value = 0;
 },
 {
 name = co.uk.corvelsoftware.Dotter.segmentWise;
-value = 0;
+value = 1;
 },
 {
 name = co.uk.corvelsoftware.Dotter.startDotSize;
