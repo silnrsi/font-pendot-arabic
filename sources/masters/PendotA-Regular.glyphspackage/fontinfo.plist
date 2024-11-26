@@ -1,6 +1,12 @@
 {
 .appVersion = "3316";
 .formatVersion = 3;
+axes = (
+{
+name = "Master index";
+tag = MIND;
+}
+);
 customParameters = (
 {
 name = fsType;
@@ -146,6 +152,9 @@ tag = rlig;
 );
 fontMaster = (
 {
+axesValues = (
+0
+);
 id = m01;
 metricValues = (
 {
@@ -182,6 +191,9 @@ name = Regular;
 visible = 1;
 },
 {
+axesValues = (
+999
+);
 id = "75405DBD-BDE7-4DB9-970A-41B7BDE3CB72";
 metricValues = (
 {
@@ -217,6 +229,9 @@ name = "Pendot Preview";
 visible = 1;
 },
 {
+axesValues = (
+1
+);
 id = m003;
 metricValues = (
 {
@@ -255,6 +270,9 @@ visible = 1;
 );
 instances = (
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = co.uk.corvelsoftware.Dotter.dotSize;
@@ -333,6 +351,9 @@ m01 = 1;
 name = Medium;
 },
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = co.uk.corvelsoftware.Dotter.startCap;
@@ -415,6 +436,9 @@ m01 = 1;
 name = MediumDot;
 },
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = co.uk.corvelsoftware.Dotter.dotSize;
@@ -523,6 +547,9 @@ m01 = 1;
 name = "MediumDot-guide";
 },
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = co.uk.corvelsoftware.Dotter.dotSize;
@@ -601,6 +628,9 @@ m01 = 1;
 name = Large;
 },
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = co.uk.corvelsoftware.Dotter.dotSize;
@@ -679,6 +709,9 @@ m01 = 1;
 name = LargeDot;
 },
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = co.uk.corvelsoftware.Dotter.dotSize;
