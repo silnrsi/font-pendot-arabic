@@ -858,7 +858,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2004-2023 SIL International (https://www.sil.org/)";
+value = "Copyright (c) 2004-2025 SIL Global (https://www.sil.org/)";
 }
 );
 },
@@ -889,7 +889,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2004-2023 SIL International (https://www.sil.org/) with Reserved Font Names \"Pendot\" and \"SIL\". This Font Software is licensed under the SIL Open Font License, Version 1.1.
+value = "Copyright (c) 2004-2025 SIL Global (https://www.sil.org/) with Reserved Font Names \"Pendot\" and \"SIL\". This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://openfontlicense.org
 
@@ -993,7 +993,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "SIL International";
+value = "SIL Global";
 }
 );
 },
@@ -1006,7 +1006,7 @@ key = trademarks;
 values = (
 {
 language = dflt;
-value = "Pendot is a trademark of SIL International.";
+value = "Pendot is a trademark of SIL Global.";
 }
 );
 },
@@ -1039,5 +1039,5 @@ strokerWidth = 50;
 };
 };
 versionMajor = 0;
-versionMinor = 101;
+versionMinor = 102;
 }
