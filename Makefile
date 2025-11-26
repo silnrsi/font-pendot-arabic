@@ -52,3 +52,6 @@ clean:
 
 update-project-template:
 	npx update-template https://github.com/googlefonts/googlefonts-project-template/
+
+update:
+	pip install --upgrade $(dependency); pip freeze > requirements.txt
